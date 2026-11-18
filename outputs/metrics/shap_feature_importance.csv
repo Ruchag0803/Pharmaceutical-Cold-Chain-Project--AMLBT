@@ -1,0 +1,56 @@
+feature,mean_abs_shap
+Refrigeration_Status_Normal,0.9503087202953623
+Ambient_Temperature_C,0.584679296105951
+Refrigeration_Status_Reduced Performance,0.5640779091961767
+Thermal_Holding_Capacity_Min,0.318262962012255
+Weather_Condition_Sunny,0.307929201917847
+Insulation_Level_Good,0.21931959174721594
+Weather_Condition_Cloudy,0.21474444587282804
+Estimated_Remaining_Transit_Time_min,0.20583979069157976
+Planned_Delivery_Time_min,0.20583979069157976
+Weather_Condition_Rainy,0.17162785633411645
+Coolant_Type_Hybrid gel and PCM,0.132977202345215
+Coolant_Type_Water-based gel packs,0.12784572112360262
+Power_Failure_Flag,0.12514910826917985
+Insulation_Level_Poor,0.12415189560195342
+Previous_Excursion_History,0.09748239899375045
+Time_Slot_20:00-20:59,0.0836630719263254
+Coolant_Quantity_g,0.07922951026298101
+Handling_Delay_Min,0.07237936162752583
+Time_Slot_14:00-14:59,0.06578885658502756
+Coolant_Type_Phase-change material (5°C),0.06492042917933179
+Packaging_Type_Insulated carton,0.06289932615328851
+Packaging_Type_VIP insulated shipper,0.06284664546866053
+Time_Slot_10:00-10:59,0.06068678128439803
+Insulation_Level_Moderate,0.06006931177444623
+Weather_Condition_Cold,0.05778600357154081
+Sensor_Missing_Flag,0.05724420752355764
+Stop_Count,0.04844277059843682
+Refrigeration_Status_Failed,0.04813671408332182
+Sensor_Anomaly_Flag,0.045737516959609044
+Time_Slot_12:00-12:59,0.042766168639168864
+Time_Slot_16:00-16:59,0.04206837531161399
+Delivery_Distance_km,0.0420172952210042
+Time_Slot_08:00-08:59,0.041310084624337925
+Sensor_Accuracy_C,0.03660192794081169
+Insulation_Level_Excellent,0.03659151653337072
+Time_Slot_13:00-13:59,0.036150732256290764
+Time_Slot_09:00-09:59,0.027716627894698847
+Container_Age_Days,0.024838615611287248
+Time_Slot_17:00-17:59,0.020639757048562576
+Time_Slot_18:00-18:59,0.018167832046933806
+Time_Slot_15:00-15:59,0.017710343819587335
+Time_Slot_19:00-19:59,0.01652408422760124
+Courier_Type_Cold-Chain Dedicated Delivery,0.0157313883166461
+Packaging_Type_EPS cooler,0.00978194866782351
+Packaging_Type_Refrigerated tote,0.008893606286875112
+Weather_Condition_Hot,0.007737357632605019
+Time_Slot_21:00-21:59,0.004718097998355501
+Courier_Type_Crowdsourced Rider,0.004540572406753875
+Relative_Humidity_pct,0.004021576521515072
+Door_Opening_Count,0.0034715461509157164
+Courier_Type_Platform Dedicated Delivery,0.0020943553179857202
+Time_Slot_11:00-11:59,0.0002108617445257123
+Medication_Type_Temperature-Controlled Prescription,0.0
+Product_Temperature_Max_C,0.0
+Product_Temperature_Min_C,0.0
